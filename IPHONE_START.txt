@@ -1,0 +1,10 @@
+PERFORMANCE OS v4 – iPhone-Version
+
+1. Öffne Performance_OS-v4.html in Safari. Für die zuverlässigste Nutzung kann die HTML-Datei auf einer HTTPS-Webseite liegen.
+2. Tippe oben links auf „Menü“, um die Navigation zu öffnen.
+3. Schließen: „Schließen“ antippen, auf den dunklen Hintergrund tippen oder einen Menüpunkt wählen.
+4. Safari: Teilen → Zum Home-Bildschirm, wenn die Seite über eine geeignete HTTPS-Adresse bereitgestellt wird.
+
+Die Excel-Datei lässt sich in Numbers oder Microsoft Excel öffnen. Die .bat-Datei und das .ico sind für Windows gedacht.
+Hinweis: Die HTML-Datei speichert Daten lokal im Browser. Sie synchronisiert sie nicht automatisch mit anderen Geräten.
+Die Anpassung wurde technisch geprüft, aber nicht auf einem physischen iPhone getestet.
